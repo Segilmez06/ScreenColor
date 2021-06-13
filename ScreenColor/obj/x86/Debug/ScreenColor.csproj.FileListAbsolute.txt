@@ -1,0 +1,6 @@
+/home/sarp/Projects/ScreenColor/ScreenColor/bin/Debug/ScreenColor.exe
+/home/sarp/Projects/ScreenColor/ScreenColor/bin/Debug/ScreenColor.pdb
+/home/sarp/Projects/ScreenColor/ScreenColor/obj/x86/Debug/ScreenColor.csprojAssemblyReference.cache
+/home/sarp/Projects/ScreenColor/ScreenColor/obj/x86/Debug/ScreenColor.csproj.CoreCompileInputs.cache
+/home/sarp/Projects/ScreenColor/ScreenColor/obj/x86/Debug/ScreenColor.exe
+/home/sarp/Projects/ScreenColor/ScreenColor/obj/x86/Debug/ScreenColor.pdb
